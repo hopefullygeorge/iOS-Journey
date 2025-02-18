@@ -18,7 +18,7 @@ Below is a list of all the projects I have completed or am currently working on:
 
 | Project Name | Description | Repo Link |
 |-------------|------------|-----------|
-| **Test Project** | Test description. | [Repo] |
+| **Todoey** | Todoey is a simple, gesture-based to-do list app inspired by Clear. | [Repo](https://github.com/hopefullygeorge/Project-1-Todoey.git) |
 | **Spare** | Spare. | [Repo] |
 
 
