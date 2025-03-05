@@ -19,7 +19,7 @@ Below is a list of all the projects I have completed or am currently working on:
 | Project Name | Description | Repo Link |
 |-------------|------------|-----------|
 | **Todoey** | Todoey is a simple, gesture-based to-do list app inspired by Clear. | [Repo](https://github.com/hopefullygeorge/Project-1-Todoey.git) |
-| **Spare** | Spare. | [Repo] |
+| **URLManager** | URLManager is reaffirming my understanding of CoreData concepts. | [Repo](https://github.com/hopefullygeorge/Project-1-2-URLManager.git) |
 
 
 ---
